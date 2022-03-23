@@ -7,4 +7,4 @@ This repository is for the purpose of building on ideas, and practice knowledge 
 - Fraud detection
 - On-Chain Analysis
 - Liquidity prediction
-
+- Ransom Tracking
