@@ -16,3 +16,9 @@
 6. Place some transactions tracking system in place.
 7. Try to build a blockchain explorer
 8. Add support for other blockchain platforms to expand tracking on swaps.
+
+# Colaborations
+
+Do you have any idea, a thought, an advise or a suggestion? 
+Please share it with us.
+Thank you.
