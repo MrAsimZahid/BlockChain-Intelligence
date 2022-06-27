@@ -4,7 +4,7 @@
 
 - [Intro to Blockchain](https://www.youtube.com/playlist?list=PLJD-996ceLKbdcam6_8z0zRWFRgb4GgOT)
 - [Blockchain Course](https://youtu.be/M576WGiDBdQ)
-
+- [Data as a Product](https://www.mckinsey.com/business-functions/quantumblack/our-insights/how-to-unlock-the-full-value-of-data-manage-it-like-a-product)
 
 ## Proceeding Ideas
 
